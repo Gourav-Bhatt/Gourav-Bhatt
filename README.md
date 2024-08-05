@@ -11,7 +11,7 @@ I'm an aspiring analyst from Silchar, Assam, with a passion for tech exploration
 <h3>🌟 PROFESSIONAL HIGHLIGHTS</h3>
 - 📸 Photography Enthusiast<br>
 - 🏋️ Fitness Aficionado<br>
-- 🏏 Cricket Fan
+- 🏏 Cricket Fan<br>
 
 I bring the same enthusiasm and attention to detail to my data projects as I do to capturing the perfect shot or achieving a new personal best at the gym.
 
