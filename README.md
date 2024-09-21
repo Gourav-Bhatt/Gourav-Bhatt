@@ -26,7 +26,7 @@ Actively developing my skills in data and business analysis, always eager to lea
 
 <h3>🌐 CONNECT WITH ME</h3>
 - <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn</a><br>
-- <a href="gouravbhattofficial@gmail.com">Gmail ID</a>
+- <a href="gouravbhattofficial@gmail.com">Gmail ID</a><br>
 - <a href="https://gourav-bhatt.github.io/portfolio-website-BA/">Portfolio Website</a>
 
 <h3>🤝 LET'S COLLABORATE!!</h3>
