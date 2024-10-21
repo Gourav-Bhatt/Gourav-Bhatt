@@ -1,4 +1,4 @@
-<h1>👋🏻 Hello!!!!, I'm Gourav Bhattacharjee</h1>
+<h1>👋🏻 Hello!!, I'm Gourav Bhattacharjee</h1>
 <h3>🙋🏻 ABOUT ME</h3>
 
 I'm an aspiring analyst from Silchar, Assam, with a passion for tech exploration and data-driven insights. My journey is shaped by my roots and fueled by above-average dreams.
@@ -26,7 +26,7 @@ Actively developing my skills in data and business analysis, always eager to lea
 
 <h3>🌐 CONNECT WITH ME</h3>
 - <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn</a><br>
-- <a href="gouravbhattofficial@gmail.com">Gmail ID</a><br>
+- <a href="gouravbhatt244@gmail.com">Gmail ID</a><br>
 
 
 <h3>🤝 LET'S COLLABORATE!!</h3>
