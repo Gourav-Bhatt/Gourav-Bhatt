@@ -25,8 +25,9 @@ Actively developing my skills in data and business analysis, always eager to lea
 - MS Office: Excel, PowerPoint, Word
 
 <h3>🌐 CONNECT WITH ME</h3>
-- <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn</a><br>
+- <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn ID</a><br>
 - <a href="gouravbhatt244@gmail.com">Gmail ID</a><br>
+- <a href="https://www.instagram.com/gourav_data_designer/">Instagram ID</a><br>
 
 
 <h3>🤝 LET'S COLLABORATE!!</h3>
