@@ -23,7 +23,8 @@ Actively developing my skills in data and business analysis, always eager to lea
 <h3>🛠️ SKILLS</h3>
 - Programming and Database Language: SQL, MySQL and Python(basics)<br>
 - Visualization Tools: Microsoft Power Bi<br>
-- MS Office: Excel, PowerPoint, Word
+- MS Office: Excel, PowerPoint, Word<br>
+- Designing Tools: Figma<br>
 
 <h3>🌐 CONNECT WITH ME</h3>
 - <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn ID</a><br>
