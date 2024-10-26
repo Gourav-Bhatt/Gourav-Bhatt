@@ -14,7 +14,7 @@ I'm an aspiring analyst and designer from Silchar, Assam, with a passion for tec
 - 🏋️ Fitness Enthusiast<br>
 - 🏏 Cricket Fan<br>
 
-I bring the same enthusiasm and attention to detail to my data projects as I do to capturing the perfect shot or achieving a new personal best at the gym.
+I bring the same enthusiasm and attention to detail to my data and designing projects as I do to capturing the perfect shot or achieving a new personal best at the gym.
 
 <h3>🎯 CURRENT FOCUS</h3>
 
@@ -25,6 +25,11 @@ Actively developing my skills in data and business analysis, always eager to lea
 - Visualization Tools: Microsoft Power Bi<br>
 - MS Office: Excel, PowerPoint, Word<br>
 - Designing Tools: Figma<br>
+
+<h3>📁 MY WORKS </h3>
+- <a href="https://github.com/Gourav-Bhatt/Analysis_Project">Analysis Project's</a><br>
+- <a href="https://github.com/Gourav-Bhatt/Designing_Project">Designing Project's</a><br>
+- <a href="https://github.com/Gourav-Bhatt/Presentation-Project/tree/main">Presentation Project's</a><br>
 
 <h3>🌐 CONNECT WITH ME</h3>
 - <a href="www.linkedin.com/in/gourav-bhattacharjee-a133b9295">LinkedIn ID</a><br>
