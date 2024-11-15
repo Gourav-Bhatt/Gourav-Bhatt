@@ -1,7 +1,5 @@
 <h1>👋🏻 Hello!!, I'm Gourav Bhattacharjee</h1>
-<h3>🙋🏻 ABOUT ME</h3>
-
-I'm an aspiring analyst and designer from Silchar, Assam, with a passion for tech exploration and data-driven insights. My journey is shaped by my roots and fueled by above-average dreams.
+An aspiring analyst and designer from Silchar, Assam, with a passion for tech exploration and data-driven insights. My journey is shaped by my roots and fueled by above-average dreams.
 
 <h3>🔍 PROFESSIONAL INTERESTS</h3>
 - 📊 Data and Business Analytics<br>
