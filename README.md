@@ -1,4 +1,4 @@
-<img align="center" alt="bg_iamge" width=100% src="intro_image">
+<img src="intro_image" alt="Heading Image" style="width:100%; max-width:800px;">
 <h1>👋🏻 Hello!!, I'm Gourav Bhattacharjee</h1>
 An aspiring analyst and designer from Silchar, Assam, with a passion for tech exploration and data-driven insights. My journey is shaped by my roots and fueled by above-average dreams.
 
