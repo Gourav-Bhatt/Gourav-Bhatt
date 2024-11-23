@@ -1,3 +1,5 @@
+<img src="intro_image.png" alt="heading_image">
+
 <h1>👋🏻 Hello!!, I'm Gourav Bhattacharjee</h1>
 An aspiring analyst and designer from Silchar, Assam, with a passion for tech exploration and data-driven insights. My journey is shaped by my roots and fueled by above-average dreams.
 
